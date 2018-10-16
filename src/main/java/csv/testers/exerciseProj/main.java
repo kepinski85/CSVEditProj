@@ -38,7 +38,7 @@ public class main {
                 System.out.println("Inventory : " + inventory);
                 System.out.println("---------------\n\n");
             }
-
+            //test
 
         }
             mkFile file = new mkFile();
